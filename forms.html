@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <title>Forms in HTML</title>
+</head>
+<body>
+    <!-- <h1>Forms in HTML</h1> -->
+    <h1>Addmission Form</h1>
+    <form action="/sucess_message.html" method="get" enctype="application/x-www-form-urlencoded" target="_blank" autocomplete="off"> 
+        
+        <input value="Jawad" type="text" placeholder="Enter Your Name" required readonly/>
+
+        <input type="password" placeholder="Enter Your Password" required>
+
+        <input type="date">
+
+        <input type="number" placeholder="Enter price" disabled>
+
+        <br> <br>
+        <label for="morning">Morning</label>
+        <input name="section" id="morning" type="radio">
+
+        <label for="evening">Evening</label>
+        <input name="section" id="evening" type="radio">
+
+        <br> <br>
+
+        <input type="file">
+
+        <br>
+        <br>
+        <textarea rows="10" cols="40" placeholder="Enter Your Address" ></textarea>
+
+        <br>
+        <br>
+
+        <select>
+            <option value="">Select Your Country</option>
+            <option value="Pakistan">Pakistan</option>
+            <option value="India">India</option>
+        </select>
+
+<br><br>
+        <fieldset>
+            <legend>Contact Information</legend>
+            <input type="text" name="" value="">
+            <input type="date">
+        </fieldset>
+
+        <fieldset>
+            <legend>Personal Information</legend>
+            <input type="text" name="" value="">
+            <input type="date">
+        </fieldset>
+
+        <br>
+        <br>
+        <input type="submit" value="Login">
+        <input type="reset" value="Clear">
+
+        <input value="#24829043820934" type="hidden">
+
+    </form>
+</body>
+</html>
