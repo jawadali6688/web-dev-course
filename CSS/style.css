@@ -1,0 +1,28 @@
+/* * {
+    background-color: orange;
+    color: blueviolet;
+} */
+
+
+/* p {
+    background-color: orange;
+    color: blueviolet;
+} */
+
+
+/* .paragraph {
+    background-color: orange;
+    color: blueviolet;
+} */
+
+
+/* #text {
+    background-color: orange;
+    color: blueviolet;
+} */
+
+
+input[type=text] {
+    background-color: orange;
+    color: white;
+}
