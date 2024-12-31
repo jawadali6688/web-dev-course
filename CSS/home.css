@@ -1,0 +1,71 @@
+/* h1 {
+    color: blueviolet;
+}
+
+p {
+    color: orangered;
+}
+
+h3 {
+    background-color: blueviolet;
+    color: white;
+} */
+
+h1, p, h3, b {
+    /* color: orangered;
+    color: blue;
+    color: pink;
+    color: blueviolet;
+    color: #801040;
+    color: rgb(255, 120, 100);
+    color: rgba(212, 3, 125, 1);
+    color: black; */
+    /* background-color: orangered; */
+    /* background-color: blue; */
+    /* background-color: pink; */
+    /* background-color: blueviolet;
+    background-color: #801040;
+    background-color: rgb(255, 120, 100);
+    background-color: rgba(212, 3, 125, 1); */
+}
+
+
+b {
+   color: brown; 
+   /* font-family: 'Courier New', Courier, monospace; */
+   font-family: 'Cascadia Code';
+   font-size: larger;
+   font-size: small;
+   text-align: center;
+}
+
+h1 {
+    text-align: center;
+    text-decoration: underline;
+    text-decoration: overline;
+    text-decoration: dotted;
+    text-decoration: line-through;
+}
+
+p {
+    line-height: 50px;
+}
+
+
+/* div {
+    background-color: black;
+    height: 1900px;
+    background-image: url('/Untitled\ \(6\).png');
+    background-repeat: no-repeat;
+    background-repeat: repeat-x;
+    background-repeat: repeat-y;
+} */
+
+
+p {
+    /* font-size: x-large; */
+    font-weight: bolder;
+    font-style: italic;
+    font-style: normal;
+    font-style: oblique;
+}
