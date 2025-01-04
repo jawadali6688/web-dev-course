@@ -1,0 +1,52 @@
+/* .box_one {
+    background-color: blueviolet;
+    color: white;
+    display: inline-block;
+    width: 100px;
+    height: 200px;
+} */
+
+/* b {
+    background-color: orangered;
+    display: block;
+    height: 100px;
+    width: 170px;
+} */
+
+/* i {
+    background-color: yellowgreen;
+    display: block;
+} */
+
+
+/* button {
+    background-color: orangered;
+    width: 200px;
+    padding: 10px 0px;
+    outline: none;
+    border: none;
+    color: white;
+    border-radius: 12px;
+    cursor: pointer;
+    cursor: alias;
+    cursor: cell;
+    cursor: help;
+    cursor: crosshair;
+} */
+
+.heading{
+    /* float: left; */
+    float: right;
+}
+
+.box {
+    width: 50px;
+    background-color: blueviolet;
+    margin: 5px;
+    float: left;
+}
+
+.box1 {
+    background-color: brown;
+    clear: left;
+}
